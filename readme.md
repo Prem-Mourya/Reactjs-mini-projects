@@ -1,0 +1,1 @@
+This is mini project of reactjs, basically it is for project base learning.
